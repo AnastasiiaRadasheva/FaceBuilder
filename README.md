@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎭 Face Builder
+# Face Builder
 
 **Build a cartoon face from parts and save it as PNG**
 
